@@ -1,10 +1,14 @@
-Lógica de Programação 🚀
-Repositório dedicado aos meus estudos de lógica, onde transformo problemas em soluções estruturadas.
+# Lógica de Programação 🚀
 
-📝 O que tem aqui?
+Repositório dedicado aos meus estudos de lógica de programação, 
+onde transformo problemas em soluções estruturadas.
+
+## 📌 O que tem aqui?
 Atualmente, o projeto conta com:
 
-Verificador de Gabarito: Um algoritmo que utiliza vetores para automatizar a correção de provas e cálculo de médias.
+- **Verificador de Gabarito**  
+  Algoritmo que utiliza vetores para automatizar a correção de provas 
+  e o cálculo de médias.
 
-🛠️ Tecnologias
-VisualG (Portugol)
+## 🛠️ Tecnologias
+- VisualG (Portugol)
